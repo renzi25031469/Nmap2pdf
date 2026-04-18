@@ -39,10 +39,10 @@ O **Nmap2pdf** é uma ferramenta de linha de comando que transforma arquivos XML
 ```
             XML  ──────────────►  PDF
    ┌─────────────────┐      ┌──────────────────────┐
-   │  nmap -sV -sC   │      │  • Capa executiva     │
-   │  -O target.xml  │  →   │  • Sumário de riscos  │
-   │                 │      │  • Detalhamento hosts  │
-   │  scan.xml       │      │  • Recomendações       │
+   │  nmap -sV -sC   │      │  • Capa executiva    │
+   │  -O target.xml  │  →   │  • Sumário de riscos │
+   │                 │      │  • Detalhamento hosts│
+   │  scan.xml       │      │  • Recomendações     │
    └─────────────────┘      └──────────────────────┘
 ```
 
