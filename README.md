@@ -98,7 +98,7 @@ Cada porta aberta recebe automaticamente um nível de risco com base em um mapea
 
 | Nível | Cor | Exemplos de Portas |
 |-------|-----|--------------------|
-| `CRITICAL`|🔴 Vermelho | 23 (Telnet), 445 (SMB), 512–514 (rsh/rexec), 6379 (Redis), 27017 (MongoDB) |
+| `CRITICAL`|🔴 Vermelho| 23 (Telnet), 445 (SMB), 512–514 (rsh/rexec), 6379 (Redis), 27017 (MongoDB) |
 | `HIGH` | 🟠 Laranja | 21 (FTP), 135 (MS RPC), 139 (NetBIOS), 3306 (MySQL), 3389 (RDP), 5432 (PostgreSQL) |
 | `MEDIUM` | 🟡 Amarelo | 53 (DNS), 80 (HTTP), 389 (LDAP), 8080 (HTTP alt) |
 | `LOW` | 🟢 Verde | 443 (HTTPS), 8443 (HTTPS alt) |
