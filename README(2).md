@@ -1,56 +1,5 @@
 <div align="center">
 
-<svg width="780" height="200" viewBox="0 0 780 200" xmlns="http://www.w3.org/2000/svg">
-  <rect width="780" height="200" rx="8" fill="#0D1117"/>
-  <line x1="0" y1="3" x2="780" y2="3" stroke="#1F6FEB" stroke-width="3"/>
-  <line x1="0" y1="197" x2="780" y2="197" stroke="#1F6FEB" stroke-width="3"/>
-  <g opacity="0.35">
-    <line x1="0" y1="25" x2="780" y2="25" stroke="#1C2A3A" stroke-width="0.6"/>
-    <line x1="0" y1="50" x2="780" y2="50" stroke="#1C2A3A" stroke-width="0.6"/>
-    <line x1="0" y1="75" x2="780" y2="75" stroke="#1C2A3A" stroke-width="0.6"/>
-    <line x1="0" y1="100" x2="780" y2="100" stroke="#1C2A3A" stroke-width="0.6"/>
-    <line x1="0" y1="125" x2="780" y2="125" stroke="#1C2A3A" stroke-width="0.6"/>
-    <line x1="0" y1="150" x2="780" y2="150" stroke="#1C2A3A" stroke-width="0.6"/>
-    <line x1="0" y1="175" x2="780" y2="175" stroke="#1C2A3A" stroke-width="0.6"/>
-    <line x1="65" y1="0" x2="65" y2="200" stroke="#1C2A3A" stroke-width="0.6"/>
-    <line x1="130" y1="0" x2="130" y2="200" stroke="#1C2A3A" stroke-width="0.6"/>
-    <line x1="195" y1="0" x2="195" y2="200" stroke="#1C2A3A" stroke-width="0.6"/>
-    <line x1="260" y1="0" x2="260" y2="200" stroke="#1C2A3A" stroke-width="0.6"/>
-    <line x1="325" y1="0" x2="325" y2="200" stroke="#1C2A3A" stroke-width="0.6"/>
-    <line x1="390" y1="0" x2="390" y2="200" stroke="#1C2A3A" stroke-width="0.6"/>
-    <line x1="455" y1="0" x2="455" y2="200" stroke="#1C2A3A" stroke-width="0.6"/>
-    <line x1="520" y1="0" x2="520" y2="200" stroke="#1C2A3A" stroke-width="0.6"/>
-    <line x1="585" y1="0" x2="585" y2="200" stroke="#1C2A3A" stroke-width="0.6"/>
-    <line x1="650" y1="0" x2="650" y2="200" stroke="#1C2A3A" stroke-width="0.6"/>
-    <line x1="715" y1="0" x2="715" y2="200" stroke="#1C2A3A" stroke-width="0.6"/>
-  </g>
-  <circle cx="12" cy="12" r="4" fill="#1F6FEB" opacity="0.9"/>
-  <circle cx="768" cy="12" r="4" fill="#1F6FEB" opacity="0.9"/>
-  <circle cx="12" cy="188" r="4" fill="#1F6FEB" opacity="0.9"/>
-  <circle cx="768" cy="188" r="4" fill="#1F6FEB" opacity="0.9"/>
-  <text font-family="'Courier New', Courier, monospace" font-weight="bold">
-    <tspan x="390" y="47"  font-size="14" fill="#58A6FF" text-anchor="middle"> _______                        ________            .___ _____</tspan>
-    <tspan x="390" y="66"  font-size="14" fill="#58A6FF" text-anchor="middle"> \      \   _____ _____  ______ \_____  \______   __| _// ____\</tspan>
-    <tspan x="390" y="85"  font-size="14" fill="#388BFD" text-anchor="middle"> /   |   \ /     \__  \ \____ \ /  ____/\____ \ / __ |\   __\</tspan>
-    <tspan x="390" y="104" font-size="14" fill="#388BFD" text-anchor="middle">/    |    \  Y Y  \/ __ \|  |_&gt; &gt;       \|  |_&gt; &gt; /_/ | |  |</tspan>
-    <tspan x="390" y="123" font-size="14" fill="#A371F7" text-anchor="middle">\____|__  /__|_|  (____  /   __/\_______ \   __/\____ | |__|</tspan>
-    <tspan x="390" y="142" font-size="14" fill="#A371F7" text-anchor="middle">        \/      \/     \/|__|            \/__|        \/</tspan>
-  </text>
-  <line x1="40" y1="153" x2="740" y2="153" stroke="#1F6FEB" stroke-width="0.8" opacity="0.6"/>
-  <text font-family="'Courier New', Courier, monospace">
-    <tspan x="390" y="169" font-size="11" fill="#6E7681" text-anchor="middle">nmap xml  ›  executive pdf security report                                    v1.0</tspan>
-  </text>
-  <rect x="60"  y="178" width="130" height="16" rx="3" fill="#1A1000"/>
-  <rect x="200" y="178" width="110" height="16" rx="3" fill="#001A0A"/>
-  <rect x="320" y="178" width="140" height="16" rx="3" fill="#001020"/>
-  <rect x="470" y="178" width="100" height="16" rx="3" fill="#14001A"/>
-  <text font-family="'Courier New', Courier, monospace" font-weight="bold" font-size="10">
-    <tspan x="125" y="190" fill="#D29922" text-anchor="middle">[ network scanning ]</tspan>
-    <tspan x="255" y="190" fill="#3FB950" text-anchor="middle">[ port analysis ]</tspan>
-    <tspan x="390" y="190" fill="#58A6FF" text-anchor="middle">[ risk assessment ]</tspan>
-    <tspan x="520" y="190" fill="#A371F7" text-anchor="middle">[ pdf report ]</tspan>
-  </text>
-</svg>
 
 <br/>
 
